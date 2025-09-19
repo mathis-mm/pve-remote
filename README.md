@@ -43,6 +43,6 @@ A small SwiftUI app to control a Proxmox VE server from your iPhone. It lets you
 
 # preview
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/87904112-788d-41f2-b652-6cccf3e9d69a" width="300" />
-  <img src="https://github.com/user-attachments/assets/d309237e-eae3-4a75-96e9-7c6a01f2937a" width="300" />
+  <img src="https://github.com/user-attachments/assets/fd00fbcd-a3a8-4daf-9831-a6ab4bd9be2d" width="300" />
+  <img src="https://github.com/user-attachments/assets/02e7d3c7-9101-4b69-a1de-6d9a7f10581c" width="300" />
 </p>
