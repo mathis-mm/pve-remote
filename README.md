@@ -5,8 +5,6 @@ A small SwiftUI app to control a Proxmox VE server from your iPhone. It lets you
 - Reboot or shutdown the selected node
 - Logout to clear the session
 
-Use this app with care: reboot and shutdown actions affect the selected node immediately.
-
 ## Requirements
 - iOS 18.0 or later (iPhone)
 - XCODE (to build from source)
@@ -28,7 +26,6 @@ Use this app with care: reboot and shutdown actions affect the selected node imm
 - Host should be something like `192.168.1.10` or `pve.local` (no `https://`).
 - The app talks to `https://<host>:8006/api2/json`.
 - Session ticket and CSRF token are kept only in memory and cleared on logout.
-- For production use, prefer a dedicated Proxmox account with minimal permissions for power management.
 
 ## Troubleshooting
 - Connection errors: check host/port reachability, certificate trust, and firewall.
@@ -43,3 +40,9 @@ Use this app with care: reboot and shutdown actions affect the selected node imm
 # later
 - Saved connections / keychain integration ?
 - More node actions and metrics ?
+
+# preview
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/87904112-788d-41f2-b652-6cccf3e9d69a" width="300" />
+  <img src="https://github.com/user-attachments/assets/d309237e-eae3-4a75-96e9-7c6a01f2937a" width="300" />
+</p>
