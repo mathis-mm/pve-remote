@@ -2,7 +2,7 @@
 
 A small SwiftUI app to control a Proxmox VE server from your iPhone. It lets you:
 - Connect to your Proxmox VE API over HTTPS (port 8006)
-- Reboot or shutdown the selected node
+- Reboot or shutdown functions
 - Logout to clear the session
 
 ## Requirements
